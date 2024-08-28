@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8addd8d1-62ff-41ba-839a-729dc92a9c87)# Lending Club Case Study
+#Lending Club Case Study
 > Lending Club Case Study files.
 > Python file of the detailed EDA with comments and plots.
 > PPTX file with the EDA insights
